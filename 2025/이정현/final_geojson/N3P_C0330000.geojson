@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "N3P_C0330000",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5186" } },
+"features": [
+{ "type": "Feature", "properties": { "명칭": null, "구분": "기념비", "높이": 0.0, "기타": null, "UFID": "1000037616010C03310000000000000001" }, "geometry": { "type": "Point", "coordinates": [ 198472.013, 514328.552999999956228 ] } }
+]
+}

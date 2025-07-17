@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "N3P_E0042326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5186" } },
+"features": [
+{ "type": "Feature", "properties": { "UFID": "1000037616010E00410000000000000001" }, "geometry": { "type": "Point", "coordinates": [ 199118.828, 515747.668999999936204 ] } },
+{ "type": "Feature", "properties": { "UFID": "1000037616010E00410000000000000002" }, "geometry": { "type": "Point", "coordinates": [ 197782.74, 515477.490000000048894 ] } },
+{ "type": "Feature", "properties": { "UFID": "1000037616010E00410000000000000003" }, "geometry": { "type": "Point", "coordinates": [ 198002.083000000013271, 515380.292999999946915 ] } },
+{ "type": "Feature", "properties": { "UFID": "1000037616010E00410000000000000004" }, "geometry": { "type": "Point", "coordinates": [ 198278.333999999973457, 515220.322000000043772 ] } },
+{ "type": "Feature", "properties": { "UFID": "1000037616010E00410000000000000005" }, "geometry": { "type": "Point", "coordinates": [ 198109.75, 515189.593 ] } },
+{ "type": "Feature", "properties": { "UFID": "1000037616010E00410000000000000006" }, "geometry": { "type": "Point", "coordinates": [ 199713.748, 514587.691 ] } },
+{ "type": "Feature", "properties": { "UFID": "1000037616010E00410000000000000007" }, "geometry": { "type": "Point", "coordinates": [ 199230.153999999980442, 514419.733 ] } },
+{ "type": "Feature", "properties": { "UFID": "1000037616010E00410000000000000008" }, "geometry": { "type": "Point", "coordinates": [ 198954.531000000017229, 514133.065000000060536 ] } },
+{ "type": "Feature", "properties": { "UFID": "1000037616010E00410000000000000009" }, "geometry": { "type": "Point", "coordinates": [ 198948.723, 514094.778999999980442 ] } }
+]
+}
